@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\test\bin\Debug\netcoreapp3.1\RemoveTargetNum.exe
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\test\bin\Debug\netcoreapp3.1\RemoveTargetNum.deps.json
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\test\bin\Debug\netcoreapp3.1\RemoveTargetNum.runtimeconfig.json
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\test\bin\Debug\netcoreapp3.1\RemoveTargetNum.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\test\bin\Debug\netcoreapp3.1\RemoveTargetNum.dll
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\test\bin\Debug\netcoreapp3.1\RemoveTargetNum.pdb
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\test\obj\Debug\netcoreapp3.1\RemoveTargetNum.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\test\obj\Debug\netcoreapp3.1\RemoveTargetNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\test\obj\Debug\netcoreapp3.1\RemoveTargetNum.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\test\obj\Debug\netcoreapp3.1\RemoveTargetNum.AssemblyInfo.cs
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\test\obj\Debug\netcoreapp3.1\RemoveTargetNum.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\test\obj\Debug\netcoreapp3.1\RemoveTargetNum.dll
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\test\obj\Debug\netcoreapp3.1\RemoveTargetNum.pdb
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\test\obj\Debug\netcoreapp3.1\RemoveTargetNum.genruntimeconfig.cache

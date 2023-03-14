@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "haftFind", "ConsoleApp1\haftFind.csproj", "{889C1ECB-AD07-4C03-B709-27CEB999326B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RemoveTargetNum", "test\RemoveTargetNum.csproj", "{60E32453-21E0-4A45-BEFC-E318AA9D151F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortSq", "SortSq\SortSq.csproj", "{B241980F-DBC3-4094-B3AA-40D5959DCCB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{889C1ECB-AD07-4C03-B709-27CEB999326B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{889C1ECB-AD07-4C03-B709-27CEB999326B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{889C1ECB-AD07-4C03-B709-27CEB999326B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{889C1ECB-AD07-4C03-B709-27CEB999326B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60E32453-21E0-4A45-BEFC-E318AA9D151F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60E32453-21E0-4A45-BEFC-E318AA9D151F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60E32453-21E0-4A45-BEFC-E318AA9D151F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60E32453-21E0-4A45-BEFC-E318AA9D151F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B241980F-DBC3-4094-B3AA-40D5959DCCB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B241980F-DBC3-4094-B3AA-40D5959DCCB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B241980F-DBC3-4094-B3AA-40D5959DCCB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B241980F-DBC3-4094-B3AA-40D5959DCCB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {285C3E16-A3FD-4BAF-B774-AA2728EE09DD}
+	EndGlobalSection
+EndGlobal

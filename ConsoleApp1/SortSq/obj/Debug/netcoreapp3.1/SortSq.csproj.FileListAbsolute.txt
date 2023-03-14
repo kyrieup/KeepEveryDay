@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\SortSq\bin\Debug\netcoreapp3.1\SortSq.exe
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\SortSq\bin\Debug\netcoreapp3.1\SortSq.deps.json
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\SortSq\bin\Debug\netcoreapp3.1\SortSq.runtimeconfig.json
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\SortSq\bin\Debug\netcoreapp3.1\SortSq.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\SortSq\bin\Debug\netcoreapp3.1\SortSq.dll
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\SortSq\bin\Debug\netcoreapp3.1\SortSq.pdb
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\SortSq\obj\Debug\netcoreapp3.1\SortSq.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\SortSq\obj\Debug\netcoreapp3.1\SortSq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\SortSq\obj\Debug\netcoreapp3.1\SortSq.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\SortSq\obj\Debug\netcoreapp3.1\SortSq.AssemblyInfo.cs
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\SortSq\obj\Debug\netcoreapp3.1\SortSq.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\SortSq\obj\Debug\netcoreapp3.1\SortSq.dll
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\SortSq\obj\Debug\netcoreapp3.1\SortSq.pdb
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\SortSq\obj\Debug\netcoreapp3.1\SortSq.genruntimeconfig.cache

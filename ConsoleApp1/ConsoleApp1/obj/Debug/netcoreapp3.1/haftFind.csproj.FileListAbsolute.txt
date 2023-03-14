@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\haftFind.exe
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\haftFind.deps.json
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\haftFind.runtimeconfig.json
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\haftFind.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\haftFind.dll
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\haftFind.pdb
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\haftFind.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\haftFind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\haftFind.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\haftFind.AssemblyInfo.cs
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\haftFind.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\haftFind.dll
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\haftFind.pdb
+C:\Users\DELL\Desktop\每日算法\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\haftFind.genruntimeconfig.cache
